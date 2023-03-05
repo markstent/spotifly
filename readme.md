@@ -60,4 +60,4 @@ Get a list of tracks in a specific playlist
 If you want to contribute to the Spotifly module, feel free to submit a pull request or open an issue. Any feedback or suggestions are welcome!
 
 ### License
-The Spotifly module is licensed under the MIT License. See the LICENSE file for more information.
+The Spotifly module is licensed under the MIT License. See the [LICENSE](license.txt) file for more information.
