@@ -1,6 +1,6 @@
 # Spotifly
 
-![Spotifly logo](/Spotifly.png)
+![Spotifly logo](/images/spotifly_logo.png)
 
 Spotifly  allows users to play short snippets of a playlist in random order. It is designed to provide a quick and easy way to discover new music and playlists without having to listen to full tracks or playlists.
 
