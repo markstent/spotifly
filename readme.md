@@ -1,5 +1,7 @@
 # Spotifly
 
+![Spotifly logo](spotifly.png)
+
 Spotifly  allows users to play short snippets of a playlist in random order. It is designed to provide a quick and easy way to discover new music and playlists without having to listen to full tracks or playlists.
 
 An advantage of Spotifly is its ability to help users discover new music and playlists. By playing short snippets of tracks in random order, the app can expose users to a wide range of artists and genres, allowing them to explore and discover new music that they might not have otherwise encountered.
