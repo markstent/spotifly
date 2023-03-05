@@ -6,7 +6,7 @@ from spotifly import spotify_player
 # Playlist settings
 
 USERNAME = 'USERNAME' #obtained from Spotify developer portal
-USERID = 'USEROD' #Spotify user id (from normal Spotify account)
+USERID = 'USERPD' #Spotify user id (from normal Spotify account)
 PLAYLIST_NAME = 'PLAYLIST_NAME'
 CLIENT_ID = 'CLIENT_ID' #obtained from Spotify developer portal
 CLIENT_SECRET = 'CLIENT_SECRET' #obtained from Spotify developer portal
